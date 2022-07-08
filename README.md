@@ -1,8 +1,8 @@
 # GoogleNet & alexnet-tree
 
 ## 介绍
-[alexnet](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)与决策树复合模型。Alexnet实现降维，决策树实现分类。
-G
+GoogelNet与[alexnet](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)与决策树复合模型。Alexnet实现降维，决策树实现分类。
+
 ## 主要依赖
 
 - pytorch
